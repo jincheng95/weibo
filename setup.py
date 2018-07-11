@@ -12,7 +12,6 @@ setup(
     py_modules=['weibo', ],
     url='http://lxyu.github.io/weibo/',
     license="BSD",
-    long_description=open('README.rst').read(),
     install_requires=[
         "requests>=2.4.0",
     ],
